@@ -1,7 +1,3 @@
-# Micrograd-from-scratch
-Implementation of a minimal automatic differentiation engine inspired by Andrej Karpathy's Micrograd to understand backpropagation and computational graphs.
-# Micrograd Implementation (From Scratch)
-
 ## Overview
 
 This project is a simple implementation of an automatic differentiation engine inspired by the Micrograd tutorial by Andrej Karpathy.
